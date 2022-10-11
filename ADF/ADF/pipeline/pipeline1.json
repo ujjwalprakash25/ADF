@@ -64,8 +64,7 @@
 					"retryIntervalInSeconds": 30,
 					"secureOutput": false,
 					"secureInput": false
-				},
-				"userProperties": []
+				}
 			}
 		],
 		"annotations": []
